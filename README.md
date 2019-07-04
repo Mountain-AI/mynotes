@@ -18,6 +18,6 @@ Python 的 Markdown to HTML 编译器使用的是 [Mistune](https://github.com/l
 
 ## 项目展示
 
-请参阅作者本人的博客 —— [藕丝空间](http://www.os373.cn)
+请参阅作者本人的博客 —— [藕丝空间](https://devezhang.info)
 
 
